@@ -2468,7 +2468,6 @@ hash = "8568ae2b1cc770cae06befb2d9b51a086be9435b6a1fa55dc69f58e85d4d65cd"
 file = "config/extremesoundmuffler.json5"
 hash = "9954495e2ca959afc193eaacf5b66fc1e265bf323432fb4828f3887ef6bdc54e"
 
-
 [[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "40a328afd1bebc72f6650c03b92e1642095e2dcaf63e298ebbc68a37eb2777d4"
@@ -2645,7 +2644,6 @@ hash = "830741b6892a4e2e3fb295dc53807b5f32784a4a0773315da7acc2cd124b5729"
 file = "config/healthoverlay.json5"
 hash = "d2956058ddbe1a84a60e4543c7703ece639ffa15c39482bf1a1178e174857753"
 
-
 [[files]]
 file = "config/indrev/cables.json"
 hash = "fbdf6aff9172651d77e5b5c5e369568b9092edcd72a25115edb7c81c4d57ef9d"
@@ -2689,7 +2687,6 @@ hash = "274dcf155e9646094d42f860442f2c29f627145c90ad01d6ea10833915552687"
 [[files]]
 file = "config/inventorysorter/config.json5"
 hash = "e135c97158e62f81f114b0712008ed02477059cb06096e85f2c53f8773dfa034"
-
 
 [[files]]
 file = "config/iron-jetpacks/client.json5"
