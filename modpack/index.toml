@@ -221,10 +221,6 @@ file = "config/beyond_earth.toml"
 hash = "329236bc5643751897f1c5bb2a2d82a4562cb6ab37ef8bab183da976e24dbfec"
 
 [[files]]
-file = "config/bhmenu/bhmenu-client.properties"
-hash = "54054b4b7cf4417e19e8f6068dddbb6d2447c19c209688b0645545eb60047c71"
-
-[[files]]
 file = "config/bosses_of_mass_destruction.json5"
 hash = "cfb83af28a257a3b83383f0a7f2dbc5e5930b9528c4d14940e9d29000a51ce63"
 
@@ -2472,9 +2468,6 @@ hash = "8568ae2b1cc770cae06befb2d9b51a086be9435b6a1fa55dc69f58e85d4d65cd"
 file = "config/extremesoundmuffler.json5"
 hash = "9954495e2ca959afc193eaacf5b66fc1e265bf323432fb4828f3887ef6bdc54e"
 
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "9eae02c8208fdef1a71a8f663a0daec659d2a67b4e8a11df94229cf9e0beb922"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -2652,9 +2645,6 @@ hash = "830741b6892a4e2e3fb295dc53807b5f32784a4a0773315da7acc2cd124b5729"
 file = "config/healthoverlay.json5"
 hash = "d2956058ddbe1a84a60e4543c7703ece639ffa15c39482bf1a1178e174857753"
 
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "6da1c5f3154085737c22c5b76eca071090da801a339af8ba57dc74cad2f84bbf"
 
 [[files]]
 file = "config/indrev/cables.json"
@@ -2700,9 +2690,6 @@ hash = "274dcf155e9646094d42f860442f2c29f627145c90ad01d6ea10833915552687"
 file = "config/inventorysorter/config.json5"
 hash = "e135c97158e62f81f114b0712008ed02477059cb06096e85f2c53f8773dfa034"
 
-[[files]]
-file = "config/iris.properties"
-hash = "58d3a31e731609623640b3573f4d88dd3c7b6a07ef5ae5646df2acd95ad2e536"
 
 [[files]]
 file = "config/iron-jetpacks/client.json5"
@@ -2911,10 +2898,6 @@ hash = "154490b69456ed6fdca82436284af52d761fe828638649c58b7aa37d7cf3b536"
 [[files]]
 file = "config/quickshulkerconfig.json5"
 hash = "3244506d38efb766e02fc41c1fad15135b32cc144bfb12e8aaad36a034faf20d"
-
-[[files]]
-file = "config/rare-ice.properties"
-hash = "59ea61afc9fa3ab29509ea5a571c0e157e5e65d178e121419c44ad8dff289ad0"
 
 [[files]]
 file = "config/reborncore/misc.json"
