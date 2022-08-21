@@ -5847,11 +5847,6 @@ hash = "4b0fa19ea767d239fad702863b87571bc7ab22981168d9715efe9bb14fe3e5d7"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "7c95c7eb827be20a2ea98e9a5924e43c8123bfd2bcb01fdcc5a538d37faabe8f"
-metafile = true
-
-[[files]]
 file = "mods/cooking-for-blockheads-fabric.pw.toml"
 hash = "cc054b90f551a843793b7ba1f4b5814092f07c155c433ffd4eeb54101dbbdee3"
 metafile = true
