@@ -2489,10 +2489,6 @@ file = "config/farmingforblockheads/MarketRegistry.json"
 hash = "875f119cc6a5fd823d2b8a5f01809495bf64c1b921ecac054effc4e173daaf63"
 
 [[files]]
-file = "config/farsight.json"
-hash = "6261001946227171efc6e4ad4cb6826b5dd1804f67cd1134f2120cc0fbb37059"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
 
