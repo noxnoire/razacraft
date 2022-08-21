@@ -6507,6 +6507,11 @@ hash = "176ea17692c0d6c7dc09a057ed637944622dcf1414c468797a20a12faebd7783"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "1fc89f8a9bcd5f2595072474dc27c617a64cd7505e7f622db0e2f87b2cbca5c5"
+metafile = true
+
+[[files]]
 file = "mods/mo-colors.pw.toml"
 hash = "9d753e98cc33e1099f174a6c16ef7f8991c920f2fc9e5ceff19adf3ed3afb8e5"
 metafile = true
