@@ -1,0 +1,13 @@
+name = "Universal Enchants [Outdated]"
+filename = "UniversalEnchants-v3.0.6-1.18.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fdca795c682e729acd05dc2f8f77d160e8c1239"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3728461
+project-id = 596515

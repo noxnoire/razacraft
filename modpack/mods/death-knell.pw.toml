@@ -1,0 +1,13 @@
+name = "Death Knell"
+filename = "DeathKnell-Fabric-1.18.2-3.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8292e31242f066eaf6cbc18d880e9e9a84ddcc23"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3807727
+project-id = 538316

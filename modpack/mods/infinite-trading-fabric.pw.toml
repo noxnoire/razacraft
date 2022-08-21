@@ -1,0 +1,13 @@
+name = "Infinite Trading (Fabric)"
+filename = "infinitetrading-fabric_1.18.2-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8828469c951a45f584d2db890ab041dfee228c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907859
+project-id = 529960

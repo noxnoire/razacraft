@@ -1,0 +1,13 @@
+name = "Xaero Map Addition"
+filename = "xaero-map-addition-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4addb9fd147ab079f9c9d747ffda06a4b2b9ab69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827475
+project-id = 566242

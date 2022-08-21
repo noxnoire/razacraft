@@ -1,0 +1,13 @@
+name = "Magitek Mechs"
+filename = "magitekmechs-fabric-MC1.18-1.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07e97b52378f1f0993d1609464920e7f3f8c6319"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3697655
+project-id = 534029

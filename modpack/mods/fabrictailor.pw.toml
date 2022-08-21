@@ -1,0 +1,13 @@
+name = "FabricTailor"
+filename = "fabrictailor-1.9.0+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "161256f45043cfd8e5a488d3e882e9651caea304"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3935711
+project-id = 390114

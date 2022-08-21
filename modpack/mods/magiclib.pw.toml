@@ -1,0 +1,13 @@
+name = "MagicLib"
+filename = "magiclib-0.5.37.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db727c64dba42540f0a447b9c42c5e19f6872b9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3919822
+project-id = 576459

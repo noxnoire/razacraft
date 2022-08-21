@@ -1,0 +1,13 @@
+name = "Village Bell Recipe (Fabric)"
+filename = "villagebellrecipe-fabric_1.18.2-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbc9383ff8c0c6b071f53f0d0b56923efd42e869"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907697
+project-id = 527675

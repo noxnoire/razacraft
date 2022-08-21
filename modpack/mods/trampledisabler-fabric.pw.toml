@@ -1,0 +1,13 @@
+name = "TrampleDisabler (Fabric)"
+filename = "trample-disabler-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1e0ad0ab90be18a63c0e366582b889d6e830847"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3833413
+project-id = 439805

@@ -1,0 +1,13 @@
+name = "Passive Chunk Pregenerator"
+filename = "Passive Chunk Pregenerator-fabric-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "761d689d84f1a92d79a1127c2e478b3270cf4234"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3913109
+project-id = 654220

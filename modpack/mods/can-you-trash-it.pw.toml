@@ -1,0 +1,13 @@
+name = "Can You Trash It?"
+filename = "cyti-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "467620ad9463025d77f70af15866cb3722c448ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3788274
+project-id = 564152

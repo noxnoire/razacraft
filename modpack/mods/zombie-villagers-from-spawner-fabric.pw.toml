@@ -1,0 +1,13 @@
+name = "Zombie Villagers From Spawner (Fabric)"
+filename = "zombievillagersfromspawner-fabric_1.18.2-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "951d64eb9d63a182351a4e582732fc8f68ca745e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907608
+project-id = 528285

@@ -1,0 +1,13 @@
+name = "Oh My Minecraft Client"
+filename = "oh-my-minecraft-client-0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oQgSAEhD/versions/0.5/oh-my-minecraft-client-0.5.jar"
+hash-format = "sha1"
+hash = "543886be81d055a7120691708e5b2d38434f61dd"
+
+[update]
+[update.modrinth]
+mod-id = "oQgSAEhD"
+version = "dO81Jt1M"

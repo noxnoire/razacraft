@@ -1,0 +1,13 @@
+name = "Show Yourself"
+filename = "showyourself-1.18.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eb3f23c4cbede1395c50d971d70881297e3c22be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3945075
+project-id = 663222

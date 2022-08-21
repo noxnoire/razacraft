@@ -1,0 +1,13 @@
+name = "Entity Banners"
+filename = "entity-banners-1.0.2-BETA+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b430a3a8066aa7680a72a594b31e7935e42173e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3541351
+project-id = 470149

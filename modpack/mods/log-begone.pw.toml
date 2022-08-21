@@ -1,0 +1,13 @@
+name = "Log Begone"
+filename = "Log-Begone-1.18-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31f2223f465645c130a3b5ac00e10655419c9b7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3823445
+project-id = 623560

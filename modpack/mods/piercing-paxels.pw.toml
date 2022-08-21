@@ -1,0 +1,13 @@
+name = "Piercing Paxels"
+filename = "piercing-paxels-1.0.1+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4223b88af237a1e4b4eea2835e628c8d915a4fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3921998
+project-id = 656453

@@ -1,0 +1,13 @@
+name = "Dwarf Coal (Fabric)"
+filename = "dwarfcoal-1.18.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ca205be156e717828109a194e916f9ba46fe612"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3595860
+project-id = 309177

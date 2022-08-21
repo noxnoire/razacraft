@@ -1,0 +1,13 @@
+name = "SlotLock"
+filename = "slotlock-1.0.4-BETA+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ca370df0925149653531fd2042ed906314029e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3541401
+project-id = 408366
